@@ -55,11 +55,11 @@ I am a MERN Stack Developer ðŸ’» and AI Enthusiast from India lives in TX, USA ð
 </div>
 
 ---
-
+<!----
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsjaysuthar)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsjaysuthar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+--->
