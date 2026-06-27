@@ -1,7 +1,6 @@
 # Jay Suthar
 
-I have over 4 years of software development experience in building scalable enterprise applications and implementing intelligent systems. Proficient in full-stack development, API design, and cloud infrastructure, alongside data pipelines and AI driven development. 
-Seeking to leverage technical expertise and innovation to create impactful software solutions.
+Machine Learning Engineer with 4 years of experience building LLM and retrieval systems that run in production. I specialize in retrieval-augmented generation, inference optimization, and the MLOps infrastructure that keeps ML systems reliable at scale, including drift detection, model registries, and automated retraining. My work spans the full lifecycle: training models on millions of users, deploying quantized models, and building streaming pipelines that catch model decay before it reaches users.
 
 ## Get in touch
-- LinkedIn: https://www.linkedin.com/in/itsjay63/
+- LinkedIn: [https://www.linkedin.com/in/jay0101work/]
